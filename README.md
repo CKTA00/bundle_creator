@@ -3,7 +3,7 @@ Companion project to Room Arranger VR application for creating asset bundles
 
 ### What is an asset bundle?
 
-Asset bundle is a special file that custom models and textures to use in Unity applications. In case of Room Arranger VR, bundles need to be created with accordance to following rules in order for them to work properly in the application.
+Asset bundle is a special file for custom models and textures taht can be used in Unity applications. In case of Room Arranger VR, bundles need to be created with accordance to following rules in order for them to work properly in the application.
 
 # How to create a bundle for RoomArranger?
 
